@@ -1,0 +1,8 @@
+﻿## Interface: 90001
+## Title: PlexusIndicatorBorderTexts
+## Version: 0.0.1
+## Dependencies: Plexus
+
+locals\locals.xml
+core.lua
+
